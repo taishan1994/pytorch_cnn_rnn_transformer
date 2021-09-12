@@ -1,0 +1,10 @@
+{
+  "ntoken": 10109,
+  "d_model": 256,
+  "nhead": 4,
+  "d_hid": 512,
+  "nlayers": 1,
+  "num_label": 10,
+  "pe_dropout": 0.5,
+  "ec_dropout": 0.5
+}

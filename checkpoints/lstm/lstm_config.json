@@ -1,0 +1,9 @@
+{
+  "num_labels": 10,
+  "vocab_size": 10109,
+  "word_embedding_dimension": 300,
+  "hidden_dim": 128,
+  "num_layers": 1,
+  "dropout": 0.5,
+  "bidirectional": true
+}
