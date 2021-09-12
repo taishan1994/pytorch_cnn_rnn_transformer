@@ -30,7 +30,7 @@ python cnn.py or python lstm.py or python transformer.py
 | rnn   | 0.90        |
 | transformer   | 0.90        |
 
-#测试
+# 测试
 以transformer为例：
 ```python             
 				precision    recall  f1-score   support
@@ -51,7 +51,7 @@ python cnn.py or python lstm.py or python transformer.py
 weighted avg       0.90      0.90      0.90     10000
 ```
 
-# 测试
+# 预测
 ```python
 2021-09-12 18:56:19,757 - INFO - transformer.py - <module> - 320 - ======================================
 2021-09-12 18:56:19,757 - INFO - transformer.py - <module> - 321 - 词汇阅读是关键 08年考研暑期英语复习全指南
@@ -136,5 +136,5 @@ weighted avg       0.90      0.90      0.90     10000
 ```
 
 # 参考
-> https://github.com/ShannonAI/ChineseBert
+> https://github.com/ShannonAI/ChineseBert <br>
 > https://github.com/UKPLab/sentence-transformers
