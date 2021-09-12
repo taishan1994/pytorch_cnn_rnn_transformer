@@ -33,7 +33,7 @@ python cnn.py or python lstm.py or python transformer.py
 # 测试
 以transformer为例：
 ```python             
-				precision    recall  f1-score   support
+		precision    recall  f1-score   support
 
            0       0.87      0.89      0.88      1000
            1       0.91      0.92      0.92      1000
